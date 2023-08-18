@@ -31,7 +31,7 @@
 #           - name: INFLUXDB_ADMIN_USER_PASSWORD    
 #              value: pass123 #you can give anything here. 
 #           - name: INFLUXDB_ADMIN_USER_TOKEN
-#              value: 778680654f2e287f788ae209a3cd559ae3ec398f30f2743f625c50133930a14c  # you must have a token given by influxdb after purchasing or signing up. 
+#              value:   # you must have a token given by influxdb after purchasing or signing up. 
 #         image: influxdb:1.8.10
 #         imagePullPolicy: Always
 #         name: influxdb
